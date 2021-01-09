@@ -4,18 +4,20 @@
     "url": "https://Bolo.xiija.repl.co",
     "icon": "https://favicons.githubusercontent.com/bolo.xiija.repl.co",
     "slug": "bolo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 193,
-    "timeWeek": 193,
-    "timeMonth": 193,
-    "timeYear": 193,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 189,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
+    "dailyMinutesDown": {
+      "2021-01-09": 0
+    }
   },
   {
     "name": "Dr.Klahn",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 978,
-    "timeDay": 978,
-    "timeWeek": 978,
-    "timeMonth": 978,
-    "timeYear": 978,
+    "time": 706,
+    "timeDay": 706,
+    "timeWeek": 706,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 77,
-    "timeWeek": 77,
-    "timeMonth": 77,
-    "timeYear": 77,
+    "time": 78,
+    "timeDay": 78,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {}
   }
 ]
