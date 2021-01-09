@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://Xiija.github.io/UpMonitor)
+[**Visit the UpMonitor status page →**](https://Xiija.github.io/UpMonitor)
 
 ## 📄 License
 
