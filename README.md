@@ -30,7 +30,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 powered entirely by a GitHub repository.<br>
 We use: <br>
 [Issues](https://github.com/Xiija/UpMonitor/issues) as incident reports,<br>
-[Actions](https://github.com/Xiija/UpMonitor/actions) as uptime monitors<br>
+[Actions](https://github.com/Xiija/UpMonitor/actions) as uptime monitors,<br>
 [Pages](https://Xiija.github.io/UpMonitor) for the status page.
 
 ## 📄 License
