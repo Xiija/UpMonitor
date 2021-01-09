@@ -2,7 +2,7 @@
 
 [**Visit the UpMonitor status page →**](https://Xiija.github.io/UpMonitor) <br>
 [**Github Marketplace →**](https://github.com/marketplace)<br>
-[**Get your own status monitor →**](https://upptime.js.org/docs/get-started/)
+[**Get your own FREE status monitor →**](https://upptime.js.org/docs/get-started/)
 
 
  <!-- <a href="https://Xiija.github.io/UpMonitor" target="_blank" rel="noopener">**Visit the UpMonitor status page →**</a> -->
