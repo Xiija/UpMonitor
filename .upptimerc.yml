@@ -25,10 +25,10 @@ status-website:
   
   [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status Repo
+    - title: Matrix Screensaver
+      href: https://xiija.github.io/MAIN/Matrix1-1-4/index.html
+    - title: UpMonitor Github Repo
       href: https://github.com/Xiija/UpMonitor
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
