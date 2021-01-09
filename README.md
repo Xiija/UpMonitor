@@ -1,6 +1,8 @@
 # [📈 Live Status](https://Xiija.github.io/UpMonitor): <!--live status--> **🟩 All systems operational**
 
-[**Visit the UpMonitor status page →**](https://Xiija.github.io/UpMonitor)
+[**Visit the UpMonitor status page →**](https://Xiija.github.io/UpMonitor) <br>
+[**Github Marketplace →**](https://github.com/marketplace)
+
 
  <!-- <a href="https://Xiija.github.io/UpMonitor" target="_blank" rel="noopener">**Visit the UpMonitor status page →**</a> -->
 
