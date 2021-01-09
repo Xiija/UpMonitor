@@ -1,30 +1,25 @@
-# Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+# Change these first  ... https://upptime.js.org/docs/configuration/
+owner:  Xiija
+repo:   UpMonitor
 
 # Add your sites here
 sites:
+  - name: Bolo
+    url: https://Bolo.xiija.repl.co
+  - name: Dr.Klahn
+    url: https://Dr-Klahn--xiija.repl.co
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+    icon: https://www.google.com/favicon.ico   
+ 
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /UpMonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: UpMonitor Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
@@ -35,3 +30,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+# user-agent: your-github-username
