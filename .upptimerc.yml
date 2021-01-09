@@ -19,7 +19,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /UpMonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: UpMonitor Status
+  name: UpMonitor Status Home
   introTitle: "**UpMonitor Status Page**"
   introMessage:  A Monitor for Xiija's bots, 
                 [**Get your own for free**](https://github.com/upptime/upptime)
