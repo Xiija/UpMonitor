@@ -27,9 +27,11 @@ Open-source uptime monitor and status page for [Xiija](https://Xiija.github.io/U
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page,
 <br>
-powered entirely by a GitHub repository. We use [Issues](https://github.com/Xiija/UpMonitor/issues) as incident reports,
-<br>
-[Actions](https://github.com/Xiija/UpMonitor/actions) as uptime monitors, and [Pages](https://Xiija.github.io/UpMonitor) for the status page.
+powered entirely by a GitHub repository.<br>
+We use: <br>
+[Issues](https://github.com/Xiija/UpMonitor/issues) as incident reports,<br>
+[Actions](https://github.com/Xiija/UpMonitor/actions) as uptime monitors<br>
+[Pages](https://Xiija.github.io/UpMonitor) for the status page.
 
 ## 📄 License
 
