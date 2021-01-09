@@ -1,7 +1,8 @@
 # [📈 Live Status](https://Xiija.github.io/UpMonitor): <!--live status--> **🟩 All systems operational**
 
 
-[**Visit the UpMonitor status page →**](https://Xiija.github.io/UpMonitor)
+[**Visit the UpMonitor status page →**](https://Xiija.github.io/UpMonitor) \
+
 <a href="https://Xiija.github.io/UpMonitor target="_blank">**Visit the UpMonitor status page →**</a>
 
 This repository contains the open-source uptime monitor and status page for [Xiija](https://Xiija.github.io/UpMonitor), powered by [Upptime](https://github.com/upptime/upptime).
