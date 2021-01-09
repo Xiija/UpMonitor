@@ -8,9 +8,9 @@ sites:
     url: https://Bolo.xiija.repl.co
   - name: Dr.Klahn
     url: https://Dr-Klahn--xiija.repl.co
-  - name: Google
-    url: https://www.google.com
-    icon: https://www.google.com/favicon.ico   
+  # - name: Google
+  #   url: https://www.google.com
+  #   icon: https://www.google.com/favicon.ico   
  
 
 status-website:
@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UpMonitor Status
   introTitle: "**UpMonitor Status Page**"
-  introMessage:  A Monitor for Xiija's sites, 
+  introMessage:  A Monitor for Xiija's bots, 
                 [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Matrix Screensaver
