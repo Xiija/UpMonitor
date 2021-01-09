@@ -3,7 +3,7 @@
 [**Visit the UpMonitor status page →**](https://Xiija.github.io/UpMonitor)
 
  <!-- <a href="https://Xiija.github.io/UpMonitor" target="_blank" rel="noopener">**Visit the UpMonitor status page →**</a> -->
- <!-- <img src="/FunkyBadge.svg"> -->
+  <img src="/FunkyBadge.svg"></img> 
 Open-source uptime monitor and status page for [Xiija](https://Xiija.github.io/UpMonitor), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Xiija/UpMonitor/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
