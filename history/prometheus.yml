@@ -1,7 +1,7 @@
 url: https://Prometheus-1.xiija.repl.co
-status: down
-code: 502
-responseTime: 137
-lastUpdated: 2021-01-15T20:24:09.558Z
+status: up
+code: 200
+responseTime: 152
+lastUpdated: 2021-01-15T21:51:46.577Z
 startTime: Wed Jan 13 2021 23:17:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
