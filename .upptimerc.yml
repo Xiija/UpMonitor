@@ -12,6 +12,9 @@ sites:
     url:  https://Zoltar-12.xiija.repl.co  
   - name: Prometheus
     url:  https://Prometheus-1.xiija.repl.co
+  - name: DeathBot K
+    url:  https://DeathBot-K.xiija.repl.co   
+    
     
   
   # - name: Google
