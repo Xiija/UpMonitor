@@ -14,8 +14,9 @@ sites:
     url:  https://Prometheus-1.xiija.repl.co
   - name: DeathBot K
     url:  https://DeathBot-K.xiija.repl.co   
-    
-    
+  - name: SecondLife RDB
+    url:  https://SecondLife-RDB-1.xiija.repl.co  
+   
   
   # - name: Google
   #   url: https://www.google.com
