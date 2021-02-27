@@ -16,6 +16,8 @@ sites:
     url:  https://DeathBot-K.xiija.repl.co   
   - name: SecondLife RDB
     url:  https://SecondLife-RDB-1.xiija.repl.co  
+  - name: ChatLogr
+    url:  https://http-resp-6-chatLogr-1.xiija.repl.co
    
   
   # - name: Google
