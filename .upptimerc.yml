@@ -13,7 +13,7 @@ sites:
   - name: Prometheus
     url:  https://Prometheus-1.tikihed.repl.co
   - name: DeathBot K
-    url:  https://DeathBot-K.tikihed.repl.co  
+    url:  https://DeathBot-K.tikihed.repl.co 
   - name: SecondLife RDB
     url:  https://SecondLife-RDB-1.tikihed.repl.co  
   - name: ChatLogr
