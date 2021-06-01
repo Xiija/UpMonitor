@@ -5,19 +5,19 @@ repo:   UpMonitor
 # Add your sites here
 sites:
   - name: Bolo
-    url:  https://Bolo.xiija.repl.co
+    url:  https://Bolo.tikihed.repl.co
   - name: Dr.Klahn
-    url:  https://Dr-Klahn--xiija.repl.co
+    url:  https://Dr-Klahn--tikihed.repl.co
   - name: Zoltar
-    url:  https://Zoltar-12.xiija.repl.co  
+    url:  https://Zoltar-12.tikihed.repl.co  
   - name: Prometheus
-    url:  https://Prometheus-1.xiija.repl.co
+    url:  https://Prometheus-1.tikihed.repl.co
   - name: DeathBot K
-    url:  https://DeathBot-K.xiija.repl.co   
+    url:  https://DeathBot-K.tikihed.repl.co  
   - name: SecondLife RDB
-    url:  https://SecondLife-RDB-1.xiija.repl.co  
+    url:  https://SecondLife-RDB-1.tikihed.repl.co  
   - name: ChatLogr
-    url:  https://http-resp-6-chatLogr-1.xiija.repl.co
+    url:  https://http-resp-6-chatLogr-1.tikihed.repl.co
    
   
   # - name: Google
