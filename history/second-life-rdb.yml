@@ -1,7 +1,7 @@
 url: https://SecondLife-RDB-1.tikihed.repl.co
-status: up
-code: 200
-responseTime: 421
-lastUpdated: 2021-07-06T23:13:50.434Z
+status: down
+code: 502
+responseTime: 23554
+lastUpdated: 2021-07-07T19:55:35.760Z
 startTime: Fri Feb 05 2021 04:55:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
