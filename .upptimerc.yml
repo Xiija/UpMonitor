@@ -30,6 +30,7 @@ sites:
 status-website:
   #theme: night # light dark night ocean
   themeUrl: https://Xiija.github.io/css/khaki.css
+  favicon:  https://plantpathco.com/wp-content/uploads/2020/01/favicon.png
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
