@@ -28,6 +28,7 @@ sites:
  
 
 status-website:
+  js: "window.open = function() { alert('Hello!') }"
   #theme: night # light dark night ocean
   themeUrl: https://Xiija.github.io/css/khaki.css
   favicon:  https://plantpathco.com/wp-content/uploads/2020/01/favicon.png
