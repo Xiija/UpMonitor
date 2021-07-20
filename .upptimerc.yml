@@ -28,7 +28,8 @@ sites:
  
 
 status-website:
-  theme: night # light dark night ocean
+  #theme: night # light dark night ocean
+  themeUrl: https://raw.githubusercontent.com/Xiija/UpMonitor/master/assets/khaki.css
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
