@@ -39,7 +39,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UpMonitor Status Home
   introTitle: "**UpMonitor Status Page**"
-  introMessage:  A Monitor for Xiija's bots <br> [**Get your own for free**](https://upptime.js.org/docs/get-started)
+  introMessage:  A Monitor for Tiki's bots <br> [**Get your own for free**](https://upptime.js.org/docs/get-started)
   navbar:
     - title: Matrix Screensaver
       href: https://xiija.github.io/MAIN/Matrix1-1-4/index.html
