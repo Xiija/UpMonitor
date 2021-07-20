@@ -7,7 +7,7 @@ sites:
   - name: Bolo
     url:  https://Bolo.tikihed.repl.co
   - name: Dr.Klahn
-    url:  https://Dr-Klahn--tikihed.repl.co
+    url:  https://Dr-Klahn.tikihed.repl.co
   - name: Zoltar
     url:  https://Zoltar-12.tikihed.repl.co  
   - name: Prometheus
@@ -18,6 +18,8 @@ sites:
     url:  https://SecondLife-RDB-1.tikihed.repl.co  
   - name: ChatLogr
     url:  https://http-resp-6-chatLogr-1.tikihed.repl.co
+  - name: MBOT-4
+    url:  https://MBOT-4.tikihed.repl.co   
    
   
   # - name: Google
