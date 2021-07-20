@@ -28,6 +28,7 @@ sites:
  
 
 status-website:
+  theme: dark
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
