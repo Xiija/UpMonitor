@@ -307,19 +307,19 @@
     "url": "https://MBOT-4.tikihed.repl.co",
     "icon": "https://favicons.githubusercontent.com/mbot-4.tikihed.repl.co",
     "slug": "mbot-4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.79%",
     "time": 351,
-    "timeDay": 308,
-    "timeWeek": 353,
-    "timeMonth": 352,
+    "timeDay": 335,
+    "timeWeek": 354,
+    "timeMonth": 353,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2021-08-21": 0,
+      "2021-08-21": 2,
       "2021-07-29": 95
     }
   }
