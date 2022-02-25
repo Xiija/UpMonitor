@@ -75,8 +75,7 @@
       "2021-03-15": 690,
       "2021-03-11": 32,
       "2021-03-06": 193,
-      "2021-03-04": 541,
-      "2021-02-25": 121
+      "2021-03-04": 541
     }
   },
   {
@@ -85,18 +84,19 @@
     "icon": "https://favicons.githubusercontent.com/dr-klahn.tikihed.repl.co",
     "slug": "dr-klahn",
     "status": "down",
-    "uptime": "96.34%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "96.03%",
+    "uptime": "96.33%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "96.02%",
     "time": 428,
     "timeDay": 479,
     "timeWeek": 375,
     "timeMonth": 493,
-    "timeYear": 459,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2022-02-24": 0,
+      "2022-02-25": 56,
+      "2022-02-24": 12,
       "2022-02-23": 23,
       "2022-02-06": 23,
       "2021-12-09": 18,
@@ -140,8 +140,7 @@
       "2021-03-11": 80,
       "2021-03-10": 118,
       "2021-03-09": 58,
-      "2021-03-06": 69,
-      "2021-02-25": 56
+      "2021-03-06": 69
     }
   },
   {
@@ -151,12 +150,12 @@
     "slug": "zoltar",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "94.00%",
+    "uptimeDay": "94.86%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.76%",
     "time": 998,
-    "timeDay": 6554,
+    "timeDay": 6392,
     "timeWeek": 3633,
     "timeMonth": 1546,
     "timeYear": 1059,
