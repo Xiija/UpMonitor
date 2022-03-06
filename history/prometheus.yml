@@ -1,7 +1,7 @@
 url: https://Prometheus-1.tikihed.repl.co
-status: down
-code: 404
-responseTime: 4320
-lastUpdated: 2022-03-06T10:38:36.878Z
+status: up
+code: 200
+responseTime: 4955
+lastUpdated: 2022-03-06T10:49:08.592Z
 startTime: Wed Jan 13 2021 23:17:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
