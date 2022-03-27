@@ -20,7 +20,8 @@ sites:
     url:  https://http-resp-6-chatLogr-1.tikihed.repl.co
   - name: MBOT-4
     url:  https://MBOT-4.tikihed.repl.co   
-   
+  - name: Amigos
+    url:  https://Audio-Player.tikihed.repl.co
   
   # - name: Google
   #   url: https://www.google.com
