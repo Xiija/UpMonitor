@@ -43,7 +43,7 @@ status-website:
   navbar:
     - title: Matrix Screensaver
       href: https://xiija.github.io/MAIN/Matrix1-1-4/index.html
-    - title: UpMonitor Github Repo
+    - title: My UpMonitor Github Repo
       href: https://github.com/Xiija/UpMonitor
 
 # Upptime also supports notifications, assigning issues, and more
