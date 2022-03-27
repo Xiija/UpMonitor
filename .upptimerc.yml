@@ -22,7 +22,18 @@ sites:
     url:  https://MBOT-4.tikihed.repl.co   
   - name: Amigos
     url:  https://Audio-Player.tikihed.repl.co
-  
+ - name:  SLPINGER
+    url: https://simhost-0f10b9127d9dd4113.agni.secondlife.io:12043/cap/45adb60b-c9bc-e105-2c5b-4c2d672683e9
+ - name: NodeBotMF2
+   url:  https://nodebot-MF-2--tikihed.repl.co
+ - name: PHPSERVER-SL
+   url:  https://SecLife-php-server-1-1.tikihed.repl.co
+  - name: UpRobotKeepAlive
+  url:  https://uptimeRobotkeepalive.TikiHed.repl.co/
+  - name: UpRobotServer
+  url:  https://UptimeRobotserver.TikiHed.repl.co/
+   
+   
   # - name: Google
   #   url: https://www.google.com
   #   icon: https://www.google.com/favicon.ico   
